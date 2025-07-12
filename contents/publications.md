@@ -1,3 +1,4 @@
+
 #### Working Paper
 
 - Green Hills Beyond: Green Institutional Investors and Corporate Environmental Cost Behavior

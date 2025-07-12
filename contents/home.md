@@ -5,10 +5,10 @@
 I am pursuing my PhD in management at Southwest Jiaotong University.
 
 #### Email
-limena1023@163.com
+limena1211@163.com
 
 #### Education
-M.E., Business Administration (Financial Accounting and Corporate Governance), School of Management, Shandong University of Technology, 2020—2023.\
+M.E., Business Administration, School of Management, Shandong University of Technology, 2020—2023.\
 B.E., Financial Management, School of Management, Shandong University of Technology, 2016—2020.
 
 #### Research Interests
