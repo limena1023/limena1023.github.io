@@ -1,12 +1,14 @@
 
 #### Working Paper
 
+
 - Green Hills Beyond: Green Institutional Investors and Corporate Environmental Cost Behavior
 
 - Ethics with a Price Tag: Does Product Responsibility Concerns Trigger Supplier Credit Penalties?
 
 
 #### Published
+
 
 - <strong>Li M*</strong>, Qi L. Controlling Shareholder Equity Pledging and Tone Management: Evidence from China[J]. *Research in International Business and Finance*, 2025, 74: 102709. <strong>(ABS2, JCRQ1)</strong>
 
