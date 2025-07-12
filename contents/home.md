@@ -1,17 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![limena1023](https://img.shields.io/badge/limena1023-github-blue?logo=github)](https://github.com/limena1023)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am pursuing my PhD in management at Southwest Jiaotong University.
 
-#### Contact
-
-Email: senli[at]fas.harvard.edu
+#### Email
+limena1023@163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Business Administration (Financial Accounting and Corporate Governance), School of Management, Shandong University of Technology, 2020—2023.\
+B.E., Financial Management, School of Management, Shandong University of Technology, 2016—2020.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Accounting, Financial Management, Corporate Governance, Disclosure.
 
+#### View 
+[Xiaohongshu](https://www.xiaohongshu.com/user/profile/5e72290c00000000010069f8)
